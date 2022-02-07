@@ -1,2 +1,2 @@
-# aula-git-hooks
+# veronica-silveira
 repositório para aula
